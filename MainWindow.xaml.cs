@@ -226,7 +226,7 @@ namespace KSPSaveEdit
 
         private void Save_Click(object sender, RoutedEventArgs e)
         {
-            File.Copy(Filename.Text, Regex.Replace(Filename.Text, @"\.sfs$", "_backup.sfs"));
+            File.Copy(Filename.Text, Regex.Replace(Filename.Text, @"\.sfs$", "_backup.sfs"), true);
 
             using (FileStream output = new FileStream(Filename.Text, FileMode.Create, FileAccess.Write, FileShare.Read))
             {
