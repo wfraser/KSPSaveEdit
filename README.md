@@ -3,6 +3,8 @@ KSPSaveEdit
 
 A Kerbal Space Program save editor
 
+![Screenshot](http://cloud.github.com/downloads/wfraser/KSPSaveEdit/screenshot1.png "Screenshot")
+
 About
 -----
 
