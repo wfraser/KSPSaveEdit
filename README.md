@@ -11,6 +11,14 @@ About
 KSPSaveEdit lets you edit the ships in your Kerbal Space Program save files.
 I created this mainly as a way to quickly get rid of all the "unknown" ship parts and debris floating around, but I figured, hey, while I'm at it, why not allow editing arbitrary attributes of the ships too?
 
+It displays all the attributes of all the ships in your save.
+Most of these you shouldn't edit, or you'll mess up the game!
+When you hit Save, KSPSaveEdit will make a backup of your save called "persistent_backup.sfs" right next to the original, just in case.
+
+To easily get rid of junk ships, click the "type" column header to sort by vessel type.
+Then either ctrl-click or shift-click to select all the ships you want to get rid of.
+Then click Delete Selected, followed by Save, and re-load KSP. The junk will be gone!
+
 Compatibility
 -------------
 
