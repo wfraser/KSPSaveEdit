@@ -17,6 +17,8 @@
             <LineBreak/>
             <Run>by William R. Fraser</Run>
             <LineBreak/>
+            <Hyperlink NavigateUri="https://github.com/wfraser/KSPSaveEdit">https://github.com/wfraser/KSPSaveEdit</Hyperlink>
+            <LineBreak/>
             <Hyperlink NavigateUri="http://www.codewise.org/" Click="Hyperlink_Click">http://www.codewise.org/</Hyperlink>
         </TextBlock>
     </DockPanel>
